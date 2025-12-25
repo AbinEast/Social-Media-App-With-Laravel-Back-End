@@ -4,7 +4,7 @@ Aplikasi media sosial yang dibuat menggunakan **Laravel** sebagai Backend (REST 
 
 ## Fitur utama:
 - Autentikasi (Login, Register, Logout) menggunakan Laravel Sanctum.
-- CRUD Postingan (Upload Teks & Gambar).
+- CRUD Postingan.
 - Edit Profil Pengguna.
 - Penyimpanan sesi lokal dan manajemen state.
 
